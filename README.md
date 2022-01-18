@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/YZjFV69SShm1nWApIt/giphy.gif" width="90"/> ***Hola! I'm Dovile!*** <img src="https://media.giphy.com/media/YZjFV69SShm1nWApIt/giphy.gif" width="90" />
+# <img src="https://media.giphy.com/media/YZjFV69SShm1nWApIt/giphy.gif" width="90" align="center"/> ***Hola! I'm Dovile!*** <img src="https://media.giphy.com/media/YZjFV69SShm1nWApIt/giphy.gif" width="90" align="center"/>
 
 # <img src="https://media.giphy.com/media/9apbJ0zKpujFkOLzmy/giphy.gif" width="150" align="center"/> constantly growing in web development ✨
 <!--
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 
 ### <p align="center"><i> ✨ Stay Tuned ✨ </i></p>
 
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doviletumaite&show_icons=true&theme=radical)
+# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doviletumaite&show_icons=true&theme=radical&align=center)
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doviletumaite&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
