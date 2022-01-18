@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/YZjFV69SShm1nWApIt/giphy.gif" width="100"/>Hola! I'm Dovile! <img src="https://media.giphy.com/media/YZjFV69SShm1nWApIt/giphy.gif" width="100"/>
+# <img src="https://media.giphy.com/media/YZjFV69SShm1nWApIt/giphy.gif" width="100" margin="0"/>Hola! I'm Dovile! <img src="https://media.giphy.com/media/YZjFV69SShm1nWApIt/giphy.gif" width="100" margin="0"/>
 
 <!--
 **doviletumaite/doviletumaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
