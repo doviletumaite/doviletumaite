@@ -39,4 +39,5 @@ Here are some ideas to get you started:
 <br />
 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doviletumaite&show_icons=true&theme=radical&align=center)
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doviletumaite&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doviletumaite&langs_count=8&theme=radical&align=center)](https://github.com/anuraghazra/github-readme-stats)
+# ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&align=center)
