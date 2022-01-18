@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   
   <br />
 
-## <img src="https://media2.giphy.com/media/2UuHBoE4vxcJvBgTMU/giphy.gif?cid=ecf05e4772wk9fnaxgthqwqptuwd8k8tqxbone8doet2atui&rid=giphy.gif&ct=s" width="60" align="center"/> skills: 
+## <img src="https://media2.giphy.com/media/2UuHBoE4vxcJvBgTMU/giphy.gif?cid=ecf05e4772wk9fnaxgthqwqptuwd8k8tqxbone8doet2atui&rid=giphy.gif&ct=s" width="60" align="center"/> My skills: 
 
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&label=%20)
 ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&label=%20)
