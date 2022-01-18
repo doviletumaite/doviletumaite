@@ -1,7 +1,7 @@
-<p align="center">
+
 # <img src="https://media.giphy.com/media/YZjFV69SShm1nWApIt/giphy.gif" width="90" align="center"/> <strong  align="center"> Hola! I'm Dovile! <strong> <img src="https://media.giphy.com/media/YZjFV69SShm1nWApIt/giphy.gif" width="90" align="center"/>
-</p>
-# <img src="https://media.giphy.com/media/9apbJ0zKpujFkOLzmy/giphy.gif" width="150" align="center"/> constantly growing in web development ✨
+
+## <img src="https://media.giphy.com/media/9apbJ0zKpujFkOLzmy/giphy.gif" width="150" align="center"/> constantly growing in web development ✨
 <!--
 **doviletumaite/doviletumaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
