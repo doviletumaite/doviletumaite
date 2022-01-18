@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 ##### - 🔭 I'm currently working on my Strive School capstone project 
 ##### - 🌱 I’m currently learning TypeScript and German 
-##### - 📫 How to reach me: here 👉<a href="https://www.linkedin.com/in/dovile-tumaite-24b952197/" target="_blank">Linkedin</a>
+##### - 📫 How to reach me: here 👉<a href="https://www.linkedin.com/in/dovile-tumaite-24b952197/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 ##### - 🚀 I study new materials every day 
 
 ### <p align="center"><i> ✨ Stay Tuned ✨ </i></p>
