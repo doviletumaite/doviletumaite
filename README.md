@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 ##### - 🔭 I'm currently working on my Strive School capstone project 
 ##### - 🌱 I’m currently learning TypeScript and German 
-##### - 📫 How to reach me: here 👉🏻 <a htrf="https://www.linkedin.com/in/dovile-tumaite-24b952197/">Linkedin</a>
+##### - 📫 How to reach me: here 👉[Linkedin](🏻"https://www.linkedin.com/in/dovile-tumaite-24b952197/")
 ##### - 🚀 I study new materials every day 
 
 
