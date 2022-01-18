@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/YZjFV69SShm1nWApIt/giphy.gif" width="90"/> ***Hola! I'm Dovile!*** <img src="https://media.giphy.com/media/YZjFV69SShm1nWApIt/giphy.gif" width="90" />
 
-# <img src="https://media.giphy.com/media/9apbJ0zKpujFkOLzmy/giphy.gif" width="150"/> constantly growing in web development ✨
+# <img src="https://media.giphy.com/media/9apbJ0zKpujFkOLzmy/giphy.gif" width="150" align="center"/> constantly growing in web development ✨
 <!--
 **doviletumaite/doviletumaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
