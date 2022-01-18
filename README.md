@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&label=%20)  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&label=%20)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white&label=%20)
-![postman](https://img.shields.io/static/v1?message=Postman&logo=postman&labelColor=5c5c5c&color=FF6C37&logoColor=white&label=%25)
+![postman](https://img.shields.io/static/v1?message=Postman&logo=postman&labelColor=5c5c5c&color=FF6C37&logoColor=white&label=%30)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101&label=%20)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white&label=%20)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white&label=%20)
