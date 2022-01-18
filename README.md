@@ -9,14 +9,14 @@ Here are some ideas to get you started:
 -->
 ##### - 🔭 I'm currently working on my Strive School capstone project 
 ##### - 🌱 I’m currently learning TypeScript and German 
-##### - 📫 How to reach me: here 👉<a href="https://www.linkedin.com/in/dovile-tumaite-24b952197/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center"/></a>
+##### - 📫 How to reach me: 👉<a href="https://www.linkedin.com/in/dovile-tumaite-24b952197/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center"/></a>
 ##### - 🚀 I study new materials every day 
 
 ### <p align="center"><i> ✨ Stay Tuned ✨ </i></p>
   
   <br />
 
-## <img src="https://media4.giphy.com/media/RvM4XTjdiFBwQ28R3y/giphy.gif?cid=ecf05e47om7gg0i7aipmgyohyyfow9igkwqxb2uy7wsjrxs4&rid=giphy.gif&ct=g" width="60" align="center"/> skills: 
+## <img src="https://media2.giphy.com/media/2UuHBoE4vxcJvBgTMU/giphy.gif?cid=ecf05e4772wk9fnaxgthqwqptuwd8k8tqxbone8doet2atui&rid=giphy.gif&ct=s" width="60" align="center"/> skills: 
 
 ![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&labelColor=5c5c5c&color=E34F26&logoColor=white&label=%20)
 ![CSS3](https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=5c5c5c&color=1572B6&logoColor=white&label=%20)
@@ -24,10 +24,17 @@ Here are some ideas to get you started:
 ![bootstrap](https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=5c5c5c&color=blueviolet&logoColor=white&label=%20)
 ![react](https://img.shields.io/static/v1?message=ReactJS&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![redux](https://img.shields.io/static/v1?message=Redux&logo=redux&labelColor=5c5c5c&color=764ABC&logoColor=white&label=%20)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![express](https://img.shields.io/static/v1?message=Express&logo=express&labelColor=5c5c5c&color=259DFF&logoColor=white&label=%20)
 ![nodejs](https://img.shields.io/static/v1?message=NodeJS&logo=node.js&labelColor=5c5c5c&color=026E00&logoColor=white&label=%20)
 ![mongodb](https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&labelColor=5c5c5c&color=brightgreen&logoColor=white&label=%20)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![postman](https://img.shields.io/static/v1?message=Postman&logo=postman&labelColor=5c5c5c&color=FF6C37&logoColor=white&label=%20)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 <br />
 
