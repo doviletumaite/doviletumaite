@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/YZjFV69SShm1nWApIt/giphy.gif" width="90" align="center"/> <strong  align="center"> Hola! I'm Dovile! <strong> <img src="https://media.giphy.com/media/YZjFV69SShm1nWApIt/giphy.gif" width="90" align="center"/>
+# <div margin="auto"><img src="https://media.giphy.com/media/YZjFV69SShm1nWApIt/giphy.gif" width="90" align="center"/> <strong  align="center"> Hola! I'm Dovile! <strong> <img src="https://media.giphy.com/media/YZjFV69SShm1nWApIt/giphy.gif" width="90" align="center"/></div>
 
 # <img src="https://media.giphy.com/media/9apbJ0zKpujFkOLzmy/giphy.gif" width="150" align="center"/> constantly growing in web development ✨
 <!--
