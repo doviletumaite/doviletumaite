@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&label=%20)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&label=%20)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&label=%20)
-![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&label=%20)
+![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&label=%20)
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&label=%20)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&label=%20)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&label=%20)  
