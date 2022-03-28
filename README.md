@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![typescript](https://img.shields.io/badge/TypeScript-4EA94B?style=for-the-badge&logo=typescript&logoColor=white&label=%20)
 ![bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&label=%20)
-![angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB&label=%20)
+![angular](https://img.shields.io/badge/Angular-20432A?style=for-the-badge&logo=angular&logoColor=61DAFB&label=%20)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&label=%20)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&label=%20)
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&label=%20)
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101&label=%20)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white&label=%20)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white&label=%20)
-![Figma](https://img.shields.io/badge/figma-%23430098.svg?style=for-the-badge&logo=figma&logoColor=white&label=%20)
+![Figma](https://img.shields.io/badge/figma-%23430078.svg?style=for-the-badge&logo=figma&logoColor=white&label=%20)
   
 <br />
 
