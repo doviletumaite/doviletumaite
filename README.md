@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white&label=%20)
 ![Figma](https://img.shields.io/badge/figma-%23830078.svg?style=for-the-badge&logo=figma&logoColor=white&label=%20)
 ![bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&label=%20)
-![Tailwind](https://img.shields.io/badge/tailwind-%23830078.svg?style=for-the-badge&logo=tailwind&logoColor=white&label=%20)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&label=%20)
   
 <br />
 
