@@ -38,9 +38,19 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/figma-%23830078.svg?style=for-the-badge&logo=figma&logoColor=white&label=%20)
 ![bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&label=%20)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&label=%20)
-  
+
 <br />
 
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doviletumaite&show_icons=true&theme=radical&align=center)
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doviletumaite&langs_count=8&theme=radical&align=center)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=doviletumaite&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doviletumaite&langs_count=8&theme=radical&cache_seconds=1800" alt="Top Langs" /></td>
+    </tr>
+  </table>
+</div>
+
+
+
+
 
